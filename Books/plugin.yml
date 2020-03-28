@@ -1,0 +1,7 @@
+name: JoshsBooks
+version: 0.9.6
+main: com.Books.BKSplugin.Main
+commands:
+  josh:
+  herobrine:
+  npc:
